@@ -20,16 +20,16 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hello {}, my name is {} ,the [Shiva](t.me/technominded) Friend!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players🃏
+
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-My owner is [Shiva 🇮🇳](t.me/technominded)
+
 
 Special thanks to [this person](t.me/technominded) for helping me.
 
